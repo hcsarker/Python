@@ -1,5 +1,5 @@
-first_name = "shradha"
-last_name = "kapur"
+first_name = "Roudra"
+last_name = "Kapur"
 age = 19
 is_adult = True
 print(first_name + " " + last_name)
